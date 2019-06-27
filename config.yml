@@ -1,0 +1,17 @@
+#Powered By qianniancc
+NotReloadPerm: "&c&l你没有权限重置插件"
+ReloadOK: "&a&l重置成功"
+ReloadError: "&a&l重置失败"
+AntiMsg: "&c&l服务器已禁止使用所有指令"
+#以上为提示信息
+world: 
+  world:
+    - warp
+  world_nether:
+  world_the_end:
+#不会被禁止的指令
+onworld:
+    - world
+    - world_nether
+    - world_the_end
+#生效的世界

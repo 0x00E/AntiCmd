@@ -1,0 +1,5 @@
+name: AntiCmd
+main: com.github.qianniancc.AntiCmd
+version: 1.0
+commands:
+  acreload:
